@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Home Economy</string>
+    <string name="login_title">Welcome to our app</string>
 </resources>
